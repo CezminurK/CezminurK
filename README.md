@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CezminurK
-- 👀 I’m interested in C#,SQL,Html,Css
+- 👀 I’m interested in C#,SQL,Html,Css,javascript
 - 🌱 I’m currently learning Javascrip
 - 💞️ I’m looking to collaborate on some project
 - 📫 How to reach me 12nur@windowslive.com
